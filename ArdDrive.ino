@@ -7,7 +7,7 @@ AF_DCMotor motor3(3);
 AF_DCMotor motor4(4);
 
 int command; //Int to store app command state.
-int speedCar = 255w; // Initial car speed set 0 to 255.
+int speedCar = 255; // Initial car speed set 0 to 255.
 
 void setup()
 {
